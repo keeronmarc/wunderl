@@ -1,0 +1,60 @@
+/* line 3, ../styles/styles.scss */
+.content-all {
+  width: 640px;
+  height: 960px;
+  margin: 0 auto;
+  background: #ff0066;
+}
+
+/* line 10, ../styles/styles.scss */
+.content-att {
+  width: 640px;
+  height: 42px;
+  background: #231F20;
+  display: inline-block;
+}
+
+/* line 17, ../styles/styles.scss */
+.att-icon {
+  height: 20px;
+  width: 26px;
+  vertical-align: top;
+  display: inline-block;
+}
+
+/* line 24, ../styles/styles.scss */
+.att-name {
+  font-family: Helvetica;
+  font-size: 20px;
+  color: #fff;
+  vertical-align: top;
+  display: inline-block;
+}
+
+/* line 32, ../styles/styles.scss */
+.att-time {
+  font-family: Helvetica;
+  font-size: 20px;
+  color: #fff;
+  width: auto;
+  vertical-align: top;
+  display: inline-block;
+}
+
+/* line 41, ../styles/styles.scss */
+.att-percent {
+  font-family: Helvetica;
+  font-size: 20px;
+  color: #fff;
+  width: auto;
+  vertical-align: top;
+  display: inline-block;
+}
+
+/* line 50, ../styles/styles.scss */
+.att-batt {
+  height: 33px;
+  width: 17px;
+  vertical-align: top;
+  display: inline-block;
+}
