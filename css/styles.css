@@ -77,7 +77,7 @@
 
 /* line 73, ../styles/styles.scss */
 .content-sorting {
-  height: 84px;
+  height: 124px;
   width: 640px;
   background: #21201b;
   display: inline-block;
@@ -85,18 +85,19 @@
 /* line 79, ../styles/styles.scss */
 .content-sorting h1 {
   color: #fff;
-  font-size: 30px;
+  font-size: 50px;
+  margin: 30px 0px 0px 20px;
   font-family: Helvetica;
   display: inline-block;
 }
-/* line 86, ../styles/styles.scss */
+/* line 87, ../styles/styles.scss */
 .content-sorting .sorting-arrow {
   width: 40px;
   height: 20px;
   display: inline-block;
 }
 
-/* line 93, ../styles/styles.scss */
+/* line 94, ../styles/styles.scss */
 .content-nav {
   height: 87px;
   width: 640px;
@@ -104,11 +105,11 @@
   display: inline-block;
 }
 
-/* line 101, ../styles/styles.scss */
+/* line 102, ../styles/styles.scss */
 .tab-menu {
   display: inline-block;
 }
-/* line 104, ../styles/styles.scss */
+/* line 105, ../styles/styles.scss */
 .tab-menu ul {
   width: 375px;
   height: 44px;
@@ -116,7 +117,7 @@
   margin: 0px;
   padding: 0px;
 }
-/* line 112, ../styles/styles.scss */
+/* line 113, ../styles/styles.scss */
 .tab-menu li {
   display: inline-block;
   width: 182px;
@@ -126,7 +127,7 @@
   margin: 0px 0px 0px 0px;
   padding: 0px 0px 0px 0px;
 }
-/* line 121, ../styles/styles.scss */
+/* line 122, ../styles/styles.scss */
 .tab-menu li p {
   font-size: 15px;
   color: #318dc5;
@@ -134,21 +135,21 @@
   text-transform: uppercase;
 }
 
-/* line 130, ../styles/styles.scss */
+/* line 131, ../styles/styles.scss */
 .content-deals {
   height: auto;
   width: 640px;
   display: inline-block;
 }
 
-/* line 136, ../styles/styles.scss */
+/* line 137, ../styles/styles.scss */
 .deals1 {
   height: 201px;
   width: 640px;
   display: inline-block;
   border-top: 1px solid #97b9dd;
 }
-/* line 142, ../styles/styles.scss */
+/* line 143, ../styles/styles.scss */
 .deals1 .deals-photo {
   height: 198px;
   width: 189px;
