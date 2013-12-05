@@ -111,8 +111,8 @@
 }
 /* line 105, ../styles/styles.scss */
 .tab-menu ul {
-  width: 375px;
-  height: 44px;
+  width: 620px;
+  height: 64px;
   display: inline-block;
   margin: 0px;
   padding: 0px;
@@ -120,8 +120,8 @@
 /* line 113, ../styles/styles.scss */
 .tab-menu li {
   display: inline-block;
-  width: 182px;
-  height: 42px;
+  width: 300px;
+  height: 82px;
   background: none;
   border: 1px solid #318dc5;
   margin: 0px 0px 0px 0px;
@@ -129,9 +129,9 @@
 }
 /* line 122, ../styles/styles.scss */
 .tab-menu li p {
-  font-size: 15px;
+  font-size: 25px;
   color: #318dc5;
-  margin: 13px 0px 0px 60px;
+  margin: 13px 0px 0px 0px;
   text-transform: uppercase;
 }
 
@@ -148,15 +148,14 @@
   width: 640px;
   display: inline-block;
   border-top: 1px solid #97b9dd;
-  border-bottom: 1px solid #97b9dd;
 }
-/* line 144, ../styles/styles.scss */
+/* line 143, ../styles/styles.scss */
 .deals1 .deals-photo {
   height: 247px;
   width: 236px;
   display: inline-block;
 }
-/* line 150, ../styles/styles.scss */
+/* line 149, ../styles/styles.scss */
 .deals1 .deals-info {
   width: 238px;
   height: 162px;
@@ -165,7 +164,7 @@
   border: 0px solid #ff0066;
   margin: 30px 0px 0px 15px;
 }
-/* line 158, ../styles/styles.scss */
+/* line 157, ../styles/styles.scss */
 .deals1 .deals-info .deals-info-brand {
   color: #231f20;
   display: inline-block;
@@ -173,7 +172,7 @@
   text-transform: uppercase;
   vertical-align: top;
 }
-/* line 166, ../styles/styles.scss */
+/* line 165, ../styles/styles.scss */
 .deals1 .deals-info .deals-info-info {
   color: #133e67;
   display: inline-block;
@@ -181,7 +180,7 @@
   font-weight: bold;
   vertical-align: top;
 }
-/* line 174, ../styles/styles.scss */
+/* line 173, ../styles/styles.scss */
 .deals1 .deals-info .deals-info-time {
   color: #414142;
   display: inline-block;
@@ -189,7 +188,7 @@
   font-size: 17px;
   vertical-align: top;
 }
-/* line 183, ../styles/styles.scss */
+/* line 182, ../styles/styles.scss */
 .deals1 .deals-discount {
   width: 128px;
   height: 166px;
@@ -198,7 +197,7 @@
   border: 0px solid #ff0066;
   margin: 30px 0px 0px 5px;
 }
-/* line 191, ../styles/styles.scss */
+/* line 190, ../styles/styles.scss */
 .deals1 .deals-discount .deals-discount-brand {
   color: #228ac4;
   display: block;
@@ -208,7 +207,7 @@
   padding: 0px;
   height: 15px;
 }
-/* line 201, ../styles/styles.scss */
+/* line 200, ../styles/styles.scss */
 .deals1 .deals-discount .deals-discount-info {
   color: #228ac4;
   display: block;
@@ -218,7 +217,7 @@
   padding: 0px;
   height: 90px;
 }
-/* line 211, ../styles/styles.scss */
+/* line 210, ../styles/styles.scss */
 .deals1 .deals-discount .deals-discount-time {
   color: #eeeff0;
   display: block;

@@ -103,8 +103,8 @@
 	display: inline-block;
 
 	ul {
-		width: 375px;
-		height: 44px;
+		width: 620px;
+		height: 64px;
 		display: inline-block;
 		margin: 0px;
 		padding:0px;
@@ -112,17 +112,17 @@
 
 	li {
 		display: inline-block;
-		width: 182px;
-		height: 42px;
+		width: 300px;
+		height: 82px;
 		background: none;
 		border: 1px solid #318dc5;
 		margin: 0px 0px 0px 0px;
 		padding:0px 0px 0px 0px;
 
 		p  {
-			font-size: 15px;
+			font-size: 25px;
 			color: #318dc5;
-			margin: 13px 0px 0px 60px;
+			margin: 13px 0px 0px 0px;
 			text-transform: uppercase;
 		}
 	}
@@ -139,7 +139,6 @@
 	width: 640px;
 	display: inline-block;
 	border-top: 1px solid #97b9dd;
-	border-bottom: 1px solid #97b9dd;
 
 	.deals-photo {
 		height: 247px;
