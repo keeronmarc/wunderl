@@ -1,5 +1,10 @@
 @import "compass/css3";
 
+
+* {
+	font-family: Helvetica;
+}
+
 .content-all {
 	width: 640px;
 	height: 960px;
@@ -13,6 +18,7 @@
 	height:42px;
 	background: #231F20;
 	display: inline-block;
+	border-bottom: 1px solid #44413d;
 }
 
 .att-icon {
@@ -74,5 +80,51 @@
 		color: #fff;
 		font-size: 30px;
 		font-family: Helvetica;
+		display: inline-block;
 	}
+
+	.sorting-arrow {
+		width: 40px;
+		height: 20px;
+		display: inline-block;
+	}
+}
+
+.content-nav {
+	height: 87px;
+	width: 640px;
+	background: #fff;
+	display: inline-block;	
+}
+
+
+.tab-menu {
+	display: inline-block;
+
+	ul {
+		width: 375px;
+		height: 44px;
+		display: inline-block;
+		margin: 0px;
+		padding:0px;
+	}
+
+	li {
+		display: inline-block;
+		width: 182px;
+		height: 42px;
+		background: none;
+		border: 1px solid #318dc5;
+		margin: 0px 0px 0px 0px;
+		padding:0px 0px 0px 0px;
+
+		p  {
+			font-size: 15px;
+			color: #318dc5;
+			margin: 13px 0px 0px 60px;
+			text-transform: uppercase;
+		}
+
+	}
+
 }
