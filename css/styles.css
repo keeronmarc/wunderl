@@ -133,3 +133,24 @@
   margin: 13px 0px 0px 60px;
   text-transform: uppercase;
 }
+
+/* line 130, ../styles/styles.scss */
+.content-deals {
+  height: auto;
+  width: 640px;
+  display: inline-block;
+}
+
+/* line 136, ../styles/styles.scss */
+.deals1 {
+  height: 201px;
+  width: 640px;
+  display: inline-block;
+  border-top: 1px solid #97b9dd;
+}
+/* line 142, ../styles/styles.scss */
+.deals1 .deals-photo {
+  height: 198px;
+  width: 189px;
+  display: inline-block;
+}
