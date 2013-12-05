@@ -144,14 +144,85 @@
 
 /* line 137, ../styles/styles.scss */
 .deals1 {
-  height: 201px;
+  height: 247px;
   width: 640px;
   display: inline-block;
   border-top: 1px solid #97b9dd;
+  border-bottom: 1px solid #97b9dd;
 }
-/* line 143, ../styles/styles.scss */
+/* line 144, ../styles/styles.scss */
 .deals1 .deals-photo {
-  height: 198px;
-  width: 189px;
+  height: 247px;
+  width: 236px;
   display: inline-block;
+}
+/* line 150, ../styles/styles.scss */
+.deals1 .deals-info {
+  width: 238px;
+  height: 162px;
+  display: inline-block;
+  vertical-align: top;
+  border: 0px solid #ff0066;
+  margin: 30px 0px 0px 15px;
+}
+/* line 158, ../styles/styles.scss */
+.deals1 .deals-info .deals-info-brand {
+  color: #231f20;
+  display: inline-block;
+  font-size: 20px;
+  text-transform: uppercase;
+  vertical-align: top;
+}
+/* line 166, ../styles/styles.scss */
+.deals1 .deals-info .deals-info-info {
+  color: #133e67;
+  display: inline-block;
+  font-size: 23px;
+  font-weight: bold;
+  vertical-align: top;
+}
+/* line 174, ../styles/styles.scss */
+.deals1 .deals-info .deals-info-time {
+  color: #414142;
+  display: inline-block;
+  margin: 7px 0px 0px 0px;
+  font-size: 17px;
+  vertical-align: top;
+}
+/* line 183, ../styles/styles.scss */
+.deals1 .deals-discount {
+  width: 128px;
+  height: 166px;
+  display: inline-block;
+  vertical-align: top;
+  border: 0px solid #ff0066;
+  margin: 30px 0px 0px 5px;
+}
+/* line 191, ../styles/styles.scss */
+.deals1 .deals-discount .deals-discount-brand {
+  color: #228ac4;
+  display: block;
+  font-size: 22px;
+  vertical-align: top;
+  margin: 0px;
+  padding: 0px;
+  height: 15px;
+}
+/* line 201, ../styles/styles.scss */
+.deals1 .deals-discount .deals-discount-info {
+  color: #228ac4;
+  display: block;
+  font-size: 91px;
+  vertical-align: top;
+  margin: 0px;
+  padding: 0px;
+  height: 90px;
+}
+/* line 211, ../styles/styles.scss */
+.deals1 .deals-discount .deals-discount-time {
+  color: #eeeff0;
+  display: block;
+  font-size: 21px;
+  vertical-align: top;
+  text-decoration: line-through;
 }

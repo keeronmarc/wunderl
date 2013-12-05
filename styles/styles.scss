@@ -135,23 +135,86 @@
 }
 
 .deals1 {
-	height: 201px;
+	height: 247px;
 	width: 640px;
 	display: inline-block;
 	border-top: 1px solid #97b9dd;
+	border-bottom: 1px solid #97b9dd;
 
 	.deals-photo {
-		height: 198px;
-		width: 189px;
+		height: 247px;
+		width: 236px;
 		display: inline-block;
 	}	
 
 	.deals-info {
+		width: 238px;
+		height: 162px;
+		display: inline-block;
+		vertical-align: top;
+		border: 0px solid #ff0066;
+		margin: 30px 0px 0px 15px;
 
+		.deals-info-brand {
+			color: #231f20;
+			display: inline-block;
+			font-size: 20px;
+			text-transform: uppercase;
+			vertical-align: top;
+		}
+
+		.deals-info-info {
+			color: #133e67;
+			display: inline-block;
+			font-size: 23px;
+			font-weight: bold;
+			vertical-align: top;
+		}
+
+		.deals-info-time {
+			color: #414142;
+			display: inline-block;
+			margin: 7px 0px 0px 0px;
+			font-size: 17px;
+			vertical-align: top;
+		}
 	}
 
 	.deals-discount {
+		width: 128px;
+		height: 166px;
+		display: inline-block;
+		vertical-align: top;
+		border: 0px solid #ff0066;
+		margin: 30px 0px 0px 5px;
 
+		.deals-discount-brand {
+			color: #228ac4;
+			display: block;
+			font-size: 22px;
+			vertical-align: top;
+			margin: 0px;
+			padding: 0px;
+			height: 15px;
+		}
+
+		.deals-discount-info {
+			color: #228ac4;
+			display: block;
+			font-size: 91px;
+			vertical-align: top;
+			margin: 0px;
+			padding: 0px;
+			height: 90px;
+		}
+
+		.deals-discount-time {
+			color: #eeeff0;
+			display: block;
+			font-size: 21px;
+			vertical-align: top;
+			text-decoration:line-through;
+		}
 	}
 }
 
