@@ -4,7 +4,8 @@
 	width: 640px;
 	height: 960px;
 	margin: 0 auto;
-	background: #ff0066;
+	background: none;
+	border: 1px solid #ff0066;
 }
 
 .content-att {
@@ -61,4 +62,17 @@
 	margin: 13px 0px 0px 10px;
 	vertical-align: top;
 	display: inline-block;
+}
+
+.content-sorting {
+	height: 84px;
+	width: 640px;
+	background: #21201b;
+	display: inline-block;
+
+	h1 {
+		color: #fff;
+		font-size: 30px;
+		font-family: Helvetica;
+	}
 }

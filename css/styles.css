@@ -3,10 +3,11 @@
   width: 640px;
   height: 960px;
   margin: 0 auto;
-  background: #ff0066;
+  background: none;
+  border: 1px solid #ff0066;
 }
 
-/* line 10, ../styles/styles.scss */
+/* line 11, ../styles/styles.scss */
 .content-att {
   width: 640px;
   height: 42px;
@@ -14,7 +15,7 @@
   display: inline-block;
 }
 
-/* line 17, ../styles/styles.scss */
+/* line 18, ../styles/styles.scss */
 .att-icon {
   height: 20px;
   width: 26px;
@@ -24,7 +25,7 @@
   display: inline-block;
 }
 
-/* line 26, ../styles/styles.scss */
+/* line 27, ../styles/styles.scss */
 .att-name {
   font-family: Helvetica;
   font-size: 20px;
@@ -35,7 +36,7 @@
   display: inline-block;
 }
 
-/* line 36, ../styles/styles.scss */
+/* line 37, ../styles/styles.scss */
 .att-time {
   font-family: Helvetica;
   font-size: 20px;
@@ -47,7 +48,7 @@
   display: inline-block;
 }
 
-/* line 47, ../styles/styles.scss */
+/* line 48, ../styles/styles.scss */
 .att-percent {
   font-family: Helvetica;
   font-size: 20px;
@@ -59,11 +60,25 @@
   display: inline-block;
 }
 
-/* line 58, ../styles/styles.scss */
+/* line 59, ../styles/styles.scss */
 .att-batt {
   height: 33px;
   width: 17px;
   margin: 13px 0px 0px 10px;
   vertical-align: top;
   display: inline-block;
+}
+
+/* line 67, ../styles/styles.scss */
+.content-sorting {
+  height: 84px;
+  width: 640px;
+  background: #21201b;
+  display: inline-block;
+}
+/* line 73, ../styles/styles.scss */
+.content-sorting h1 {
+  color: #fff;
+  font-size: 30px;
+  font-family: Helvetica;
 }
