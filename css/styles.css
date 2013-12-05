@@ -6,7 +6,7 @@
 /* line 8, ../styles/styles.scss */
 .content-all {
   width: 640px;
-  height: 960px;
+  height: auto;
   margin: 0 auto;
   background: none;
   border: 1px solid #ff0066;
